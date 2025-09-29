@@ -5,9 +5,9 @@
 </p>
 
 <div align="center">
-  <img height="110em" src="https://readme-stats-git-master-brendou-matos-projects.vercel.app/api?username=brendoumatos&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="150em" src="https://readme-stats-git-master-brendou-matos-projects.vercel.app/api?username=brendoumatos&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
 
-  <img height="110em" src="https://readme-stats-git-master-brendou-matos-projects.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&langs_count=7&theme=transparent&hide_border=true" />
+  <img height="150em" src="https://readme-stats-git-master-brendou-matos-projects.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&langs_count=7&theme=transparent&hide_border=true" />
 </div>
 
 <h5>🛠️ Tecnologias e Ferramentas:</h5>
