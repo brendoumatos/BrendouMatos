@@ -1,4 +1,4 @@
-<h3 align="center">Olá, eu sou o Brendou Matos 👋</h3>
+<h2 align="center">Olá, eu sou o Brendou Matos 👋</h2>
 
 <p align="center">
   🚀 Desenvolvedor em formação | 📈 Focado em dados, automações e soluções criativas
@@ -20,9 +20,4 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
   <a href="https://www.linkedin.com/in/brendoumatos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
-
-
-
-<p align="center">
-  Em constante evolução. A cada commit, mais perto dos meus objetivos! 🚀
-</p>
+  
