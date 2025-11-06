@@ -1,6 +1,6 @@
 # 👋 Olá — Eu sou **Brendou Matos**
 
-Analista de Dados | Automação | Processos industriais  
+Engenheiro e Analista de Dados | Automação | Eng. Software em formação 🚀 
 Transformo dados e rotinas manuais em fluxos automáticos que geram resultado.
 
 <div align="center">
