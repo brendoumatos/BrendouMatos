@@ -30,7 +30,7 @@
 ---
 
 ## 📌 Destaques Recentes
-- ✅ Criação de um **Data Lakehouse** completo para centralizar dados operacionais da indústria têxtil  
+- ✅ Criação de um **Data Lakehouse** completo para centralizar dados operacionais  
 - ✅ Pipeline **Pandas → PostgreSQL**: extração, limpeza e carregamento automático  
 - ✅ Automações avançadas: **Python + PyAutoGUI** + integração com ERP  
 - ✅ Dashboards em Looker Studio e Powertr BI para produção, defeitos e desempenho  
