@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá, eu sou <strong>Brendou Matos</strong></h2>
+<h2 align="center">👋 Olá, eu sou o <strong>Brendou Matos</strong></h2>
 <h4 align="center">Engenheiro e Analista de Dados | Automação | Eng. Software em Formação</h4>
 
 <br>
