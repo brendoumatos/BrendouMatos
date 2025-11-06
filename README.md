@@ -22,7 +22,7 @@ Transformo dados e rotinas manuais em fluxos automáticos que geram resultado.
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-![PyAutoGUI/Pandas](https://img.shields.io/badge/PyAutoGUI-000000?style=for-the-badge&logo=python&logoColor=white)
+![PyAutoGUI/Pandas](https://img.shields.io/badge/PyAutoGUI/Pandas-000000?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
