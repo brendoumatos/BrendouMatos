@@ -1,7 +1,12 @@
-# 👋 Olá — Eu sou **Brendou Matos**
+<h2 align="center">👋 Olá, eu sou <strong>Brendou Matos</strong></h2>
+<h4 align="center">Engenheiro e Analista de Dados | Automação | Eng. Software em Formação</h4>
 
-Engenheiro e Analista de Dados | Automação | Eng. Software em formação 🚀 
-Transformo dados e rotinas manuais em fluxos automáticos que geram resultado.
+<br>
+
+<p align="center">
+  🚀 Transformo dados brutos em soluções acionáveis.  
+  Construo pipelines, automações e arquiteturas que aumentam eficiência e reduzem retrabalho.
+</p>
 
 <div align="center">
   <img height="150em" src="https://readme-stats-git-master-brendou-matos-projects.vercel.app/api?username=brendoumatos&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
@@ -11,36 +16,24 @@ Transformo dados e rotinas manuais em fluxos automáticos que geram resultado.
 
 ---
 
-## 🧩 Stack — Linguagens & Ferramentas
+## 🧱 Stack Principal
 
-<!-- Linguagens -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<!-- Plataformas / Ferramentas -->
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-![PyAutoGUI/Pandas](https://img.shields.io/badge/PyAutoGUI/Pandas-000000?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-0F9D58?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 ---
 
-## ✨ Pequenos destaques da carreira
-
-- 🚀 **Automação de ponta-a-ponta:** rotinas em Python + PyAutoGUI que extraem dados de ERP, preenchem formulários e enviam relatórios por e-mail.  
-- 📊 **Dashboards e relatórios:** criação de relatórios acionáveis em Looker Studio para qualidade, produção e KPIs industriais.  
-- 🧮 **Sheets avançado (sem scripts):** soluções complexas feitas só com fórmulas para reaproveitamento de kits e controle de estoque.  
-- 📝 **Geração de documentos automatizada:** Apps Script que popula templates do Google Docs e gera PDFs individuais.  
-- 🏭 **Experiência na cadeia têxtil:** análise de produção, controle de defeitos e relacionamento com fornecedores.  
-- 🤖 **IA aplicada:** uso de técnicas e ferramentas para otimizar processos e apoiar decisões operacionais.
+## 📌 Destaques Recentes
+- ✅ Criação de um **Data Lakehouse** completo para centralizar dados operacionais da indústria têxtil  
+- ✅ Pipeline **Pandas → PostgreSQL**: extração, limpeza e carregamento automático  
+- ✅ Automações avançadas: **Python + PyAutoGUI** + integração com ERP  
+- ✅ Dashboards em Looker Studio e Powertr BI para produção, defeitos e desempenho  
+- ✅ Geração automática de PDFs via Apps Script (modelos dinâmicos)
 
 ---
-
-## 📂 Exemplos de projetos (breve)
-
-- **Automação ERP → Formulário → E-mail** — pipeline que coleta dados diários e dispara logs automáticos.  
-- **Gerador de PDFs por colaborador** — template + Apps Script -> PDFs salvos no Drive.  
-- **Reaproveitamento de Kits** — algoritmo de planilha que identifica kits completos usando apenas fórmulas.  
-- **Dashboards de Qualidade** — monitoramento de defeitos por área e tendências ao longo do tempo.
